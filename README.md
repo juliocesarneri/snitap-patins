@@ -26,8 +26,7 @@ Durante o desenvolvimento, foram aplicados conceitos como **animações**, **tra
 
 ## 📷 Prévia do Projeto
 
-![Preview](caminho/da/imagem.png)  
-> *Substitua o caminho acima pelo link correto da imagem do projeto.*
+![image](https://github.com/user-attachments/assets/ffb87e84-5a83-4db1-bdc8-78770b81a211)
 
 ---
 
